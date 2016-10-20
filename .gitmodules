@@ -18,3 +18,7 @@
 	path = 40423152
 	url = https://github.com/40423152/2016fallcadp_hw
 	branch = gh-pages
+[submodule "40423137"]
+	path = 40423137
+	url = https://github.com/40423137/2016fallcadp_hw
+	branch = gh-pages
