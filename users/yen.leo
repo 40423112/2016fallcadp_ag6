@@ -321,12 +321,15 @@ g.es("admin pelican 近端執行完畢")
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 </t>
-<t tx="leo.20161020092035.12">## 40423112 簡報
-##設計二甲 第六組
+<t tx="leo.20161020092035.12">## 第六組
 
-
-
-    &lt;/script&gt;
+###&lt;a href="https://40423112.github.io/2016fallcadp_hw/#/"&gt;40423112&lt;/a&gt;
+###&lt;a href="https://40423116.github.io/2016fallcadp_hw/#/"&gt;40423116&lt;/a&gt;
+###&lt;a href="https://40423118.github.io/2016fallcadp_hw/#/"&gt;40423118&lt;/a&gt;
+###&lt;a href="https://40423127.github.io/2016fallcadp_hw/#/"&gt;40423127&lt;/a&gt;
+###&lt;a href="https://40423137.github.io/2016fallcadp_hw/#/"&gt;40423137&lt;/a&gt;
+###&lt;a href="https://40423152.github.io/2016fallcadp_hw/#/"&gt;40423152&lt;/a&gt;
+&lt;/script&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20161020092035.13"></t>
@@ -652,7 +655,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20161020092035.9">## 2016 Fall 電腦輔助設計實習課程 四設計二甲 第六組
+<t tx="leo.20161020092035.9">## 電腦輔助設計實習課程 四設計二甲 第六組
 
 ### Welcome to the sixth group
 
